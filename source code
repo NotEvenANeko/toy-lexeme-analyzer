@@ -1,0 +1,6 @@
+if (a >= 9.8) {
+    b = "hello, world!";
+}
+
+typedef long long ll;
+typedef unsigned long long ull;
